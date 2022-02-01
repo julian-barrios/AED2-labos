@@ -1,0 +1,7 @@
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/edit_cache.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/correrValgrind.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/gtest.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/correrTests.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/gtest_main.dir
+/home/julian/CLionProjects/Algo2-labos/labo08/ejercitacion-trie/cmake-build-default/CMakeFiles/correrTests_ext.dir

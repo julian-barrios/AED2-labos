@@ -1,0 +1,5 @@
+/opt/clion-2020.2.4/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" /home/julian/CLionProjects/Algo2-labos/labo04
+Test:src/Internet.cppsrc/ConexionJugador.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/julian/CLionProjects/Algo2-labos/labo04/cmake-build-debug
