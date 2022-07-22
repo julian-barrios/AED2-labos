@@ -1,6 +1,0 @@
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/gtest.dir
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/tests_ejercitacion.dir
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/tests_algobot.dir
-/home/julian/CLionProjects/Algo2-labos/labo01/cmake-build-debug/CMakeFiles/gtest_main.dir
