@@ -1,4 +1,1 @@
-# Algo2
-# Algo2
-# Algo2
-# Algo2
+# Algoritmos y Estructuras de datos 2 - laboratorios
